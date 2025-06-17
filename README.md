@@ -1,5 +1,3 @@
-# AuthQUIC
-
 AuthQUIC Demo README
 ====================
 
